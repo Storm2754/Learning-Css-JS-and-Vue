@@ -1,0 +1,20 @@
+
+.zz ul{
+    text-decoration: overline;
+    color:blueviolet;
+    list-style-type: disc;
+}
+
+
+.xx ul{
+    font-size: 24px;
+    list-style-type:square;
+}
+
+.cc ul{
+    list-style-type: circle;
+}
+
+.vv ul{
+    list-style-type: none;
+}

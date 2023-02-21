@@ -1,0 +1,24 @@
+
+.zz ol{
+    list-style-type: lower-roman;
+}
+
+.xx ol{
+    list-style-type: upper-roman;
+}
+
+.cc ol{
+    list-style-type: lower-alpha;
+}
+
+.vv ol{
+    list-style-type: upper-alpha;
+}
+
+.bb ol{
+    list-style-type: lower-greek;
+}
+
+.nn ol{
+    list-style-type: decimal-leading-zero;
+}

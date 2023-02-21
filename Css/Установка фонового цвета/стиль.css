@@ -1,0 +1,30 @@
+
+
+
+#zz{
+    background-color: orangered;
+    color:white;
+    width: 250px;
+    height: 150px;
+}
+
+
+#xx{
+    background-color: aqua;
+    width: 250px;
+    height: 150px;
+}
+
+#cc h1{
+    background-color:crimson;
+color:white;
+ width: 150px;
+ height: 150px;
+}
+
+#cc p{
+    background-color:rgb(185, 6, 170);
+    color:white;
+     width: 150px;
+     height: 150px;
+}

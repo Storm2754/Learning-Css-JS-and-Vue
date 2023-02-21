@@ -1,0 +1,10 @@
+
+#zz {
+    border-left :4px solid rgb(233, 75, 75);
+    border-right: 4px dashed rgb(122, 29, 184) ; 
+    border-top: 4px double rgb(13, 116, 175) ;
+    border-bottom: dotted rgb(179, 224, 15) ;
+	width: 300px;
+	height: 100px;
+}
+

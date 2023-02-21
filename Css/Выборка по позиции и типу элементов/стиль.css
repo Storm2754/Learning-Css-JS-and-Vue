@@ -1,0 +1,21 @@
+
+li:first-of-type{
+    color:cadetblue;
+    font-size:27px;
+}
+
+li:last-of-type{
+    color:red;
+}
+
+ol:nth-of-type(2){
+    color:chartreuse;
+}
+
+li:nth-last-of-type(2){
+    color:rgb(77, 43, 172);
+}
+
+p:only-of-type{
+    color:darkorange;
+}

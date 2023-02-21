@@ -1,0 +1,27 @@
+
+.zz{
+    border: 2px solid rgb(6, 174, 204);
+    width: 150px;
+    height: 230px;
+}
+
+.xx{
+     border: 2px solid greenyellow;
+     width: 100px;
+     height: 200px;
+     margin: 20px;
+}
+
+.cc{
+    border: 2px solid rgb(170, 7, 211);
+    width: 100px;
+    height: 200px;
+    margin: 20px;
+}
+
+.vv{
+    border: 2px solid rgb(226, 5, 16);
+    width: 100px;
+    height: 200px;
+    margin: 20px;
+}

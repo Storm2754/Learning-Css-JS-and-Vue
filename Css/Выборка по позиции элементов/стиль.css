@@ -1,0 +1,21 @@
+
+li:first-child{
+    color:violet;
+    text-decoration: overline;
+}
+
+
+li:last-child{
+    color:blueviolet;
+}
+
+
+li:nth-child(2){
+color:brown;
+}
+
+
+.null li:empty{
+border: 1px solid red;
+width: 150px;
+}

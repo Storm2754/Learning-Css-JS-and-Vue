@@ -1,0 +1,16 @@
+
+#zz {
+    border: 4px dashed rgb(168, 97, 216) ; 
+border-radius: 20px;
+	width: 300px;
+	height: 100px;
+    background-color: chartreuse;
+}
+
+#xx{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border: 4px dashed rgb(168, 97, 216) ; 
+    border-radius: 50px;
+}

@@ -1,0 +1,23 @@
+
+
+
+/* посещеные ссылки*/
+:link{
+    color:brown;
+}
+
+/* не посещенные ссылки*/
+:visited{
+    color:chartreuse;
+}
+
+/*навод на ссылку*/
+a:hover{
+color:aqua;
+text-decoration: none;
+
+}
+/* нажал но не перещел по ссылке */
+:active{
+    color:darkblue;
+}
