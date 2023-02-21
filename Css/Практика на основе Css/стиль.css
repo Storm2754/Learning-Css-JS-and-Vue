@@ -1,0 +1,28 @@
+h1{
+color:aqua;
+text-align: center;
+text-decoration: underline;
+}
+
+h2{
+color:chartreuse;
+text-align: left;
+text-decoration: overline;
+}
+
+p{
+    color:rgb(255, 0, 212);
+text-indent: 30px;
+
+}
+
+li{
+color:orange;
+    text-indent: 30px;
+font-size:20px;
+}   
+
+b{
+    color:#fff;
+
+}

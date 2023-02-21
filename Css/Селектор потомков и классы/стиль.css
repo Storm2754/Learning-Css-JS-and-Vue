@@ -1,0 +1,24 @@
+.xx h2{
+    color:aqua;
+    text-decoration: overline;
+    font-size: 27px;
+}
+
+.xx p{
+    color:red;
+    font-weight: doeb;
+}
+
+.zz h2{
+    color: blue;
+}
+
+.zz p{
+    color:rgb(29, 172, 29);
+}
+
+.cc h2.vv{
+    font-size: 34px;
+    text-decoration: overline;
+    color:fuchsia;
+}

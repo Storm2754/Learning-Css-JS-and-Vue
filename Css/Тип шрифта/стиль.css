@@ -1,0 +1,15 @@
+/*
+New Roman (стоит по умолчанию), Arial, Georgia, Verdana, Trebuchet MS, Impact, Arial Black, Comic Sans MS, Courier New.
+*/
+
+p{
+    font-family: Arial;
+}
+
+h1{
+    font-family: Verdana;
+}
+
+h3{
+    font-family: Georgia;
+}

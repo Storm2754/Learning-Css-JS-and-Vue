@@ -1,0 +1,17 @@
+/* Соседний селектор + позволяет выбрать элемент по его соседу сверху.   */
+
+h1+P{
+    color: aqua;
+    font-size: 26px;
+}
+
+#zz+p{
+    color:chartreuse;
+    text-decoration: overline;
+
+}
+
+li+.xx{
+    color: crimson;
+
+}

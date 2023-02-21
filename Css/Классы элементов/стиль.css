@@ -1,0 +1,19 @@
+/*
+обращение к классу происходит через .имя_класса
+*/
+
+.zz{
+    color:aqua;
+}
+
+.xx{
+    color:darkorange;
+}
+
+.cc{
+    color:dodgerblue;
+}
+
+.vv{
+    color:gold;
+}

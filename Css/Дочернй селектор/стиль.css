@@ -1,0 +1,43 @@
+
+/*
+p > i - только курсивы, являющиеся непосредственными потомками абзацев.
+
+Html
+
+<p>
+	текст <i>просто курсив</i>
+</p>
+
+css
+
+p > i {
+	color: red;
+}
+
+*/
+
+p{ 
+    color:aqua;
+}
+
+p>i{
+    color:darkviolet;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
+li > i{
+    color:indianred;
+    font-size:15px;
+}
+
+li > b{
+color:chartreuse;
+text-decoration:line-through;
+}
+
+li b i {
+    color:fuchsia;
+    text-decoration: overline;
+    font-size:25px;
+}

@@ -1,0 +1,19 @@
+p{
+    color:rgb(142, 73, 253);
+}
+
+p i{
+    color:aqua;
+}
+
+p b i{
+    color:chocolate;
+}
+
+ul li{
+    color:deeppink;
+}
+
+ol li{
+    color:forestgreen;
+}

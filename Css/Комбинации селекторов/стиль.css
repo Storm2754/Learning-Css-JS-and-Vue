@@ -1,0 +1,26 @@
+
+p{
+    color: aqua;
+}
+
+div p{
+    color:rgb(149, 42, 248);
+    font-weight: bold;
+}
+
+div h1{
+    color:rgb(71, 236, 49);
+  text-decoration: underline;
+}
+
+div p#zz{
+    color: rgb(255, 78, 8);
+}
+
+div p.xx{
+    color:darkorange;
+}
+
+div.cc p#vv{
+    color: deeppink;
+}

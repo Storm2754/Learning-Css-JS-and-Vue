@@ -1,0 +1,19 @@
+/* Универсальный селектор * позволяет выбирать все элементы. */
+
+/*
+* {
+	color: red;
+}
+
+все элементы станут красными
+*/
+
+div *{
+    color:aqua;
+    font-size: 25px;
+}
+
+ul *{
+    color:blueviolet;
+    text-decoration: overline;
+}

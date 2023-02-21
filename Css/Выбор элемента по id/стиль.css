@@ -1,0 +1,21 @@
+#zz{
+    color:rgb(108, 69, 201);
+}
+
+#xx{
+    text-decoration: overline;
+}
+
+
+/* id и тег */
+
+#сс h2 {
+    text-decoration: overline;
+	color:aqua;
+    text-size:30px;
+}
+
+#cc p{
+
+    color:blue;
+}

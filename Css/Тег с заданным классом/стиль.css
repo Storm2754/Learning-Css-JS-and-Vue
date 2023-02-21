@@ -1,0 +1,18 @@
+h2.xx {
+	color: red;
+}
+
+p.xx{
+    color:aqua;
+    text-decoration: overline;
+}
+
+h2.zz{
+    color: blue;
+    text-decoration: underline;
+}
+
+p.zz{
+    color:darkorchid;
+    font-size: 34px;
+}
