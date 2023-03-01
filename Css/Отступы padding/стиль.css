@@ -1,0 +1,39 @@
+
+.one{
+    padding-left: 50px;
+    background-color: aqua;
+    border: 3px dotted darkred;
+    width: 100px;
+}
+
+.two {
+    padding-top: 50px;
+    background-color: rgb(20, 173, 89);
+    border: 4px outset thistle ;
+    width: 110px;
+    margin-left:150px;
+}
+
+.three{
+    padding-bottom: 50px;
+    background-color:crimson;
+    border: 4px double fuchsia;
+    width:110px;
+    margin-left:300px;
+}
+
+.four{
+    padding-right: 50px;
+    background-color:rgb(130, 20, 220);
+    border: 4px double rgb(166, 255, 0);
+    width:110px;
+    margin-left:450px;
+}
+
+.five{
+    padding: 50px;
+    background-color:rgb(220, 20, 160);
+    border: 4px double rgb(0, 153, 255);
+    width:110px;
+    margin-left:650px;
+}

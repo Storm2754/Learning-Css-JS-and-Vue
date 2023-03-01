@@ -1,0 +1,43 @@
+.zz{
+    border: 3px solid darkmagenta;
+    background-color:black ;
+    width: 250px;
+    height: 630px;
+    margin:auto;
+    position: relative;/* позиционирование относительно родителя */
+}
+
+.xx{
+    background-color: red;
+    border:3px solid aqua;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position:absolute;
+    top: 50px;
+	left: 45px
+}
+
+.cc{
+    background-color: yellow;
+    border:3px solid aqua;
+    position:absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position:absolute;
+    top: 250px;
+	left: 45px
+}
+
+.vv{
+    background-color:green;
+    border:3px solid aqua;
+    position:absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position:absolute;
+    top: 450px;
+	left: 45px
+}

@@ -1,0 +1,14 @@
+
+#one {
+display: block;
+border: 3px solid rebeccapurple;
+width: 100px;
+	height: 100px;
+}
+
+#two{
+display: inline;
+border:3px solid greenyellow;
+width: 100px;
+	height: 100px;
+}

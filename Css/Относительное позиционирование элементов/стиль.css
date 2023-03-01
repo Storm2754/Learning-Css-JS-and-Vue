@@ -1,0 +1,34 @@
+.zz{
+    color:aqua;
+    border:3px solid darkmagenta;
+    width: 250px;
+    height: 200px;
+}
+
+.xx{
+    border:3px solid rgb(43, 255, 0);
+    width: 50px;
+    height: 50px;
+
+    position: relative;
+    bottom:50px;
+left: 30px;
+}
+
+.cc{
+    color:rgb(0, 255, 76);
+    border:3px solid rgb(255, 0, 0);
+    width: 250px;
+    height: 200px;
+}
+
+.vv{
+    border:3px solid rgb(0, 0, 0);
+    width: 50px;
+    height: 50px;
+
+    position: relative;
+    top:45px;
+    left: 70px;
+
+}

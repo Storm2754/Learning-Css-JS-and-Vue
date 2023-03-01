@@ -1,0 +1,17 @@
+
+.one{
+    background-color: rgb(75, 243, 9);
+    width: 100px;
+}
+
+.two {
+    border: 3px outset rgb(201, 23, 201) ;
+    height: 100px;
+}
+
+.three{
+   
+    width: 100px;
+    border: 3px outset rgb(23, 35, 201) ;
+}/* При не заданом терсте слипшуюся линию разделить не лзя */
+

@@ -1,0 +1,20 @@
+/* Общие блоки */
+.two{
+    width: 100px;
+    height: 100px;
+    border:3px solid black;
+margin: auto;
+}
+
+.one {
+    display: flex;/* Создаем flex элементы */
+    border:3px solid fuchsia ; /*Задаем границы блока*/
+width: 400px;
+
+}
+
+.three{
+    display:inline-flex ;/* Строчно блочный элемент подстраивается под потомка*/
+border:3px solid darkcyan;
+
+}

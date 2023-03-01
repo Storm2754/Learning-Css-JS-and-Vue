@@ -1,0 +1,20 @@
+.zz{
+    border: 3px solid darkmagenta;
+    background-color:black ;
+    width: 250px;
+    height: 230px;
+    margin:auto;
+    position: absolute;/* позиционирование относительно  обсолютного родителя */
+}
+
+.xx{
+    background-color: red;
+    border:3px solid aqua;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position:absolute; /* абсолютный потомок*/
+    top: 50px;
+	left: 45px
+}
+

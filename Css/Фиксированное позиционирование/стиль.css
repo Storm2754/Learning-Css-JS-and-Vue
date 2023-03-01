@@ -1,0 +1,29 @@
+.zz{
+    width: 200px;
+   
+    height: 200px;
+    border: 3px solid fuchsia;
+margin: 50px 50px;
+
+    position:fixed; /* позиционирование фиксированное */
+    right: 100px;
+}
+
+.xx{
+   margin: auto;
+   width: 450px;
+   text-align: justify;/* центрирование по ширине */
+   font:18px Arial;/* Параметры текста */
+
+
+}
+
+.cc{
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(11, 177, 25);
+margin: 70px 80px;
+
+    position:fixed; /* позиционирование фиксированное */
+    left: 100px;
+}
