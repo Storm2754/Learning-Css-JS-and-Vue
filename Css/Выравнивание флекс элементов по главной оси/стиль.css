@@ -1,0 +1,17 @@
+.zz {
+    height: 500px;
+	width: 900px;
+	border: 3px solid red;
+ /*ВЫРАВНИВАНИЕ ЭЛЕМЕНТОВ*/
+   display: flex;
+   flex-direction: row-reverse;/* главная ось c  права на лево */
+   justify-content: flex-end; /* блоки к концу главной оси */
+}
+.xx {
+    
+
+	width: 150px;
+	height: 150px;
+	border: 3px solid rgb(8, 12, 255);
+}
+

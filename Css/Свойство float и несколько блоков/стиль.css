@@ -1,0 +1,41 @@
+
+img {
+    width: 700px;
+    height:450px;
+   
+}
+
+.zz{
+    border:3px solid rebeccapurple ;
+ 
+
+}
+
+
+.xx{
+border:3px solid yellowgreen;
+width: 150px;
+height: 150px;
+float: left;
+}
+
+.cc{
+    border:3px solid yellowgreen;
+width: 150px;
+height: 150px;
+float: left;
+}
+
+.vv{
+    border:3px solid yellowgreen;
+    width: 150px;
+    height: 150px;
+    float: right;
+    }
+    
+    .bb{
+        border:3px solid yellowgreen;
+    width: 150px;
+    height: 150px;
+    float: right;
+    }

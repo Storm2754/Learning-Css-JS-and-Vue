@@ -1,0 +1,22 @@
+.zz{
+    margin-bottom: 30px;
+}
+
+.line{
+    background-color:darkseagreen;
+}
+
+.centr{
+    width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+p{
+    color:white;
+    font-size:20px;
+}
+
+.dd p{
+    color:black;
+}

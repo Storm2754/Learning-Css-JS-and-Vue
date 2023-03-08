@@ -1,0 +1,18 @@
+img {
+    width: 700px;
+    height:450px;
+   
+}
+
+.div{
+    width: 450px;
+    text-align: justify;
+}
+
+#zz{
+ float:left ;
+}
+
+#xx{
+float:right;
+}

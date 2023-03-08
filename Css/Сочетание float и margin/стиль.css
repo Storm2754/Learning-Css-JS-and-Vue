@@ -1,0 +1,24 @@
+*{margin:25px;}
+
+img {
+    width: 700px;
+    height:450px;
+   
+}
+
+div{
+    border: 3px solid rebeccapurple;
+}
+
+p{
+    text-align: justify;
+    margin:20px;
+}
+
+#zz{
+ float:left ;
+}
+
+#xx{
+float:right;
+}

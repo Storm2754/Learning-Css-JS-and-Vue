@@ -1,0 +1,30 @@
+.zz {
+    height: 300px;
+	width: 500px;
+	border: 3px solid red;
+ /*ВЫРАВНИВАНИЕ ЭЛЕМЕНТОВ*/
+
+display: block;/* делаем блоки горизонтальными*/
+flex-direction: row;
+align-items:  stretch;/* растягивание на всю высоту */
+}
+.xx {
+    height: 50px;
+	border: 3px solid rgb(8, 12, 255);
+}
+
+.cc{   
+	border: 3px solid rgb(7, 231, 37);
+    width: 50px;
+}
+
+.vv{
+    height: 300px;
+	width: 500px;
+	border: 3px solid red;
+ /*ВЫРАВНИВАНИЕ ЭЛЕМЕНТОВ*/
+
+display:flex;/* делаем блоки горизонтальными*/
+flex-direction: row;
+align-items:  stretch;/* растягивание на всю высоту */
+}
