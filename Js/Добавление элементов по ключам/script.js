@@ -1,0 +1,10 @@
+let arr =[];
+arr[0]='a';
+arr[1]='s';
+arr[2]='d';
+arr[3]='f';
+arr[4]='g';
+console.log(arr);
+arr[0]='q';
+console.log('презапись 0 элемента');
+console.log(arr);
