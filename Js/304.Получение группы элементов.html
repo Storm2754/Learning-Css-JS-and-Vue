@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+	</head>
+	<body>
+
+		<p class="www">text1</p>
+        <p class="www">text2</p>
+        <p class="www">text3</p>
+
+		<script>
+
+            let elems = document.querySelectorAll('.www');
+
+            for (let elem of elems) {
+	            elem.textContent = elem.textContent + '!';
+            }  
+
+		</script>
+	</body>
+</html>
