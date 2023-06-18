@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+        <!-- место для  JavaScript-->
+		<script>
+            "use strict";//писать всегда ( строгий режим )
+
+           // includes проверяет наличие элемента в массиве
+           let arr=['a','s','d','f','g'];
+           let a = arr.includes(3); 
+           console.log(a);
+
+
+           //find помогает найти первый элемент в массиве
+           let arr1 = ['abc', 'defg', 'kl', 'mn'];
+            let res = arr1.find(function(elem) {
+        	return elem.length == 2;
+            }); 
+            console.log(res);
+
+
+            //indexOf осуществляет поиск элемента в массиве
+            let arr2 = [1, 2, 3, 3, 3, 4, 5];
+            let res2 = arr2.indexOf(3);
+            console.log(res2);
+
+
+            //lastIndexOf осуществляет поиск элемента в массиве
+            let arr3 = [1, 2, 3, 3, 3, 4, 5];
+            let res3 = arr3.lastIndexOf(3);
+            console.log(res3);
+            </script>
+	</head>
+	<body>
+		<h1><b>Нажми F12</b></h1>
+	</body>
+</html>

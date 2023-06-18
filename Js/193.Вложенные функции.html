@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+        <!-- место для  JavaScript-->
+		<script>
+            "use strict";//писать всегда ( строгий режим )
+
+        //Пусть у нас есть функция, параметром принимающая два числа и 
+		// возвращающая сумму квадратов этих чисел
+			
+			function func(num1,num2){
+				//возведение в квадрат
+				function square(num){
+					return num*num;
+				}
+				return square(num1)+square(num2);
+			}
+			console.log(func(3,5));
+
+            </script>
+	</head>
+	<body>
+		<h1><b>Нажми F12</b></h1>
+	</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+        <!-- место для  JavaScript-->
+		<script>
+            "use strict";//писать всегда ( строгий режим )
+
+            let users = [
+	        {
+	    	name: 'name1',
+	    	surn: 'surn1',
+	        },
+	        {
+	    	name: 'name2',
+	    	surn: 'surn2',
+	        },
+	        {
+	    	name: 'name3',
+	    	surn: 'surn3',
+	        },
+            ];
+
+            for (let user of users) {
+	        console.log(user.name + ' ' + user.surn);
+            }
+            
+            </script>
+	</head>
+	<body>
+		<h1><b>Нажми F12</b></h1>
+	</body>
+</html>

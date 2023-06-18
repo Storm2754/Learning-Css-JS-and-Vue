@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+        <!-- место для  JavaScript-->
+		<script>
+            "use strict";//писать всегда ( строгий режим )
+
+            let arr=[1,2,33,4,56,6,7];
+            let flag =false;
+            
+            for(let a of arr){
+                if(a=4){
+                    flag=true;
+                    break;
+                }
+            }
+            if(flag===true){
+                console.log('++++');
+            }else{
+                console.log('----');
+            }
+
+            </script>
+	</head>
+	<body>
+		<h1><b>Нажми F12</b></h1>
+	</body>
+</html>
