@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+        <!-- место для  JavaScript-->
+		<script>
+            "use strict";//писать всегда ( строгий режим )
+            
+            //Метод filter позволяется отфильтровать элементы массива,
+            // оставив только подходящие под определенное условие элементы.
+
+            let arr = [-2, 5, 1, -5, -1, 1, 3, 4, -1];
+
+            let a=arr.filter(function(s){
+                if(s>=0){
+                    return true;
+                }else{
+                    return false;
+                }
+            });
+            console.log(a);
+            </script>
+	</head>
+	<body>
+		<h1><b>Нажми F12</b></h1>
+	</body>
+</html>

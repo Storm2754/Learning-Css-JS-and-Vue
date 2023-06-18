@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+        <!-- место для  JavaScript-->
+		<script>
+            "use strict";//писать всегда ( строгий режим )
+
+            /// в функции одна строкf, то в стрелочных функциях можно не писать
+
+            let func1 = function(num1, num2) {
+	            return num1 * num2
+                }
+
+            let func2 = (num1, num2) => num1 * num2;
+//Если параметр стрелочной функции один - круглые скобки можно не писать:
+
+            let func1 = function(num) {
+	        return num * num;
+             }
+
+            let func2 = num => num * num
+//Если в функции вообще нет параметров - нужно писать пустые круглые скобки:
+
+            let func1 = function() {
+	        console.log('!!!');
+            }
+            let a=()=> console.log('!!!!')         
+               
+            </script>
+	</head>
+	<body>
+		<h1><b>Нажми F12</b></h1>
+	</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+        <!-- место для  JavaScript-->
+		<script>
+            "use strict";//писать всегда ( строгий режим )
+
+            function test() {
+	            let num = 1;
+	
+	            return function() {
+		        console.log(num);
+		        num++;
+	            }
+            }
+
+            let func = test();
+
+            func(); //выведет 1
+            func(); //выведет 2
+            func(); //выведет 3
+            func(); //выведет 4
+            func(); //выведет 5
+
+            </script>
+	</head>
+	<body>
+		<h1><b>Нажми F12</b></h1>
+	</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+	</head>
+	<body>
+
+		<input id="button1" type="submit" value="button1">
+        <p>
+        <input id="button2" type="submit" value="button2">
+
+		<script>
+
+        function func() {
+	        console.log('!!!');
+        }
+        let button1 = document.querySelector('#button1');
+        let button2 = document.querySelector('#button2');
+        button1.addEventListener('click', func);
+        button2.addEventListener('click', func);
+
+		</script>
+	</body>
+</html>
